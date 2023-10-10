@@ -1,3 +1,6 @@
+theme: jekyll-theme-minimal
 name: Vamsi Praveen vura, Grand Valley State University
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
+
+
